@@ -1,0 +1,35 @@
+,0,1,2,3,4,5,6,7
+0,Name,Target,Protected,Number_of_records,distribution_in_groups,overall_prev,prev_(for_all_categories),prev_diff
+1,ZNO_Ukr.csv,UkrTestStatus,SexTypeName,288837,48% :52% ,0.073,0.107:0.043,0.064
+2,ZNO_Ukr.csv,UkrTestStatus,TerTypeName,288837,75% :25% ,0.073,0.063:0.104,0.041
+3,ZNO_Ukr.csv,UkrTestStatus,SexTer,288837,37% :38% :11% :14% ,0.073,0.091:0.036:0.156:0.061,0.12
+4,ZNO_Hist.csv,HistTestStatus,SexTypeName,199373,46% :54% ,0.18,0.222:0.144,0.078
+5,ZNO_Hist.csv,HistTestStatus,TerTypeName,199373,70% :30% ,0.18,0.17:0.202,0.032
+6,ZNO_Hist.csv,HistTestStatus,SexTer,199373,33% :38% :13% :17% ,0.18,0.209:0.137:0.254:0.162,0.117
+7,ZNO_Math.csv,MathTestStatus,SexTypeName,244202,51% :49% ,0.311,0.312:0.309,0.003
+8,ZNO_Math.csv,MathTestStatus,TerTypeName,244202,75% :25% ,0.311,0.281:0.398,0.116
+9,ZNO_Math.csv,MathTestStatus,SexTer,244202,39% :36% :12% :13% ,0.311,0.283:0.279:0.406:0.39,0.127
+10,ZNO_Phys.csv,PhysTestStatus,SexTypeName,23202,85% :15% ,0.083,0.079:0.106,0.027
+11,ZNO_Phys.csv,PhysTestStatus,TerTypeName,23202,76% :24% ,0.083,0.071:0.121,0.05
+12,ZNO_Phys.csv,PhysTestStatus,SexTer,23202,64% :11% :21% :3% ,0.083,0.067:0.091:0.115:0.16,0.093
+13,ZNO_Chem.csv,ChemTestStatus,SexTypeName,9809,37% :63% ,0.107,0.099:0.112,0.013
+14,ZNO_Chem.csv,ChemTestStatus,TerTypeName,9809,78% :22% ,0.107,0.093:0.156,0.064
+15,ZNO_Chem.csv,ChemTestStatus,SexTer,9809,30% :48% :7% :15% ,0.107,0.091:0.094:0.131:0.168,0.077
+16,ZNO_Bio.csv,BioTestStatus,SexTypeName,81412,36% :64% ,0.023,0.039:0.015,0.024
+17,ZNO_Bio.csv,BioTestStatus,TerTypeName,81412,66% :34% ,0.023,0.022:0.027,0.005
+18,ZNO_Bio.csv,BioTestStatus,SexTer,81412,24% :42% :12% :22% ,0.023,0.036:0.013:0.045:0.017,0.032
+19,ZNO_Geo.csv,GeoTestStatus,SexTypeName,113116,52% :48% ,0.054,0.064:0.043,0.021
+20,ZNO_Geo.csv,GeoTestStatus,TerTypeName,113116,73% :27% ,0.054,0.05:0.064,0.015
+21,ZNO_Geo.csv,GeoTestStatus,SexTer,113116,39% :34% :13% :14% ,0.054,0.058:0.04:0.08:0.05,0.04
+22,ZNO_Eng.csv,EngTestStatus,SexTypeName,127714,49% :51% ,0.106,0.118:0.095,0.023
+23,ZNO_Eng.csv,EngTestStatus,TerTypeName,127714,85% :15% ,0.106,0.095:0.171,0.076
+24,ZNO_Eng.csv,EngTestStatus,SexTer,127714,42% :42% :7% :9% ,0.106,0.107:0.082:0.184:0.16,0.102
+25,ZNO_Fra.csv,FraTestStatus,SexTypeName,414,24% :76% ,0.089,0.091:0.089,0.002
+26,ZNO_Fra.csv,FraTestStatus,TerTypeName,414,84% :16% ,0.089,0.072:0.179,0.107
+27,ZNO_Fra.csv,FraTestStatus,SexTer,414,20% :64% :4% :12% ,0.089,0.098:0.064:0.059:0.22,0.161
+28,ZNO_Deu.csv,DeuTestStatus,SexTypeName,1825,34% :66% ,0.114,0.139:0.101,0.038
+29,ZNO_Deu.csv,DeuTestStatus,TerTypeName,1825,85% :15% ,0.114,0.086:0.272,0.186
+30,ZNO_Deu.csv,DeuTestStatus,SexTer,1825,31% :54% :3% :12% ,0.114,0.118:0.067:0.351:0.251,0.284
+31,ZNO_Spa.csv,SpaTestStatus,SexTypeName,150,26% :74% ,0.153,0.077:0.18,0.103
+32,ZNO_Spa.csv,SpaTestStatus,TerTypeName,150,85% :15% ,0.153,0.141:0.227,0.087
+33,ZNO_Spa.csv,SpaTestStatus,SexTer,150,24% :61% :2% :13% ,0.153,0.056:0.174:0.333:0.211,0.277
